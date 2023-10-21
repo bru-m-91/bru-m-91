@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bru-m-91&label=Profile%20views&color=0e75b6&style=flat" alt="bru-m-91" /> </p>
 
-<p align="left"> <a href="https://twitter.com/randomdotfloat" target="blank"><img src="https://img.shields.io/twitter/follow/randomdotfloat?logo=twitter&style=for-the-badge" alt="randomdotfloat" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/randomdotfloat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="randomdotfloat" height="30" width="40" /></a>
